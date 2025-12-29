@@ -1,0 +1,38 @@
+[
+  {
+    "id": "evt-001",
+    "type": "EVENT",
+    "title": "Creative Workflow Jam",
+    "description": "Collaborative creative session for designers and builders.",
+    "city": "Lagos",
+    "lat": 6.455,
+    "lng": 3.384
+  },
+  {
+    "id": "plc-001",
+    "type": "PLACE",
+    "title": "Co-Working Space",
+    "description": "Modern shared workspace for teams and freelancers.",
+    "city": "Victoria Island",
+    "lat": 6.428,
+    "lng": 3.421
+  },
+  {
+    "id": "svc-001",
+    "type": "SERVICE",
+    "title": "Video Editor",
+    "description": "Professional video editing services for brands.",
+    "city": "Ikeja",
+    "lat": 6.601,
+    "lng": 3.351
+  },
+  {
+    "id": "evt-002",
+    "type": "EVENT",
+    "title": "Design Systems Live",
+    "description": "Live session on scalable design systems.",
+    "city": "Yaba",
+    "lat": 6.515,
+    "lng": 3.381
+  }
+]
